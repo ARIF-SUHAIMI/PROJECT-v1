@@ -15,7 +15,7 @@ void main() {
   ));
 }
 
-//this is anew line
+//okay kita tukar lagi
 
 ThemeData appTheme = ThemeData(
     primaryColor: Colors.black,
